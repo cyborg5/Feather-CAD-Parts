@@ -6,4 +6,6 @@ https://github.com/adafruit/Adafruit_CAD_Parts
 
 I modified them to add pin holes circular sketches on some of the solder pads so that you can connect the pins and holes using modeled wires.
 
+Also includes some other miscellaneous parts not from Adafruit.
+
 Creative Commons Share Alike
